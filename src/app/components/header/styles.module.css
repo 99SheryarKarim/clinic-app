@@ -1,0 +1,17 @@
+.nav-bg {
+  background-image: url('../../assets/1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-color {
+  background: linear-gradient(
+    180deg,
+    rgba(241, 241, 241, 0.2) 100%,
+    rgba(241, 241, 241, 0.6) 100%
+  );
+}
+
+.fullWidth {
+  max-width: 100%;
+}
